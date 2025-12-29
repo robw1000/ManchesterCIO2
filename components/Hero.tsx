@@ -21,7 +21,7 @@ const Hero: React.FC = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-zinc-400 mb-12 max-w-2xl font-light leading-relaxed">
-            Chartered IT Professional providing high-impact fractional IT leadership for businesses in Manchester or the North West. 
+            Chartered IT Professional providing high-impact fractional IT leadership for businesses in Manchester and across the North West. 
             Bridging the gap between business objectives and technical execution.
           </p>
           
